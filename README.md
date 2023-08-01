@@ -1,6 +1,8 @@
 # BLMBrust
 A brust opener using XIVOpener of BlueMage (DPS Only)
 
+Ref: https://www.icy-veins.com/ffxiv/blue-mage-pve-dps-rotation-openers-abilities
+
 # Required Ablities:   
 **Base**  
 
