@@ -1,2 +1,2 @@
 # BLMBrust
-A brust opener using XIVOpener
+A brust opener using XIVOpener of blueMage
