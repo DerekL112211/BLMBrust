@@ -22,6 +22,7 @@ A brust opener using XIVOpener of BlueMage (DPS Only)
 
 >* ![Nightbloom](https://github.com/DerekL112211/BLMBrust/assets/30214047/2a14d027-83a8-497a-ae1a-2e61bf23c1da) No.104 Nightbloom
 
+**Additional For 6.35**  
 >>* ![BreathOfMagic](https://github.com/DerekL112211/BLMBrust/assets/30214047/63729c2f-0a7d-46a2-996d-52675a70c9cc) No.109 Breath Of Magic
 >>* ![Winged](https://github.com/DerekL112211/BLMBrust/assets/30214047/ea72b561-4760-4903-a669-d6709df52613) No.118 Winged Reprobation
 >>* ![MortalFlame](https://github.com/DerekL112211/BLMBrust/assets/30214047/371a0b0f-0508-4d49-9d81-7e8c2354c21c) No.121 Mortal Flame
