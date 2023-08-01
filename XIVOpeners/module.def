@@ -1,0 +1,6 @@
+[Module]
+Name=XIVOpeners
+Version=1
+Files=semver.lua,XIVOpeners.lua
+Enabled=1
+Dependencies=minionlib
