@@ -30,12 +30,12 @@ xivopeners_blu.openerAbilities = {
 }
 
 xivopeners_blu.openerInfo = {
-    listOpeners = {"DPS Opener (Eruption)", "DPS Opener (F.Rain)", "DPS Opener High ping", "DPS Opener Winged", "DPS Opener Flame", "DPS Opener Breath"}
+    listOpeners = {"DPS Opener (Eruption5_45)", "DPS Opener (F.Rain5_45)", "DPS Opener High ping5_45", "DPS Opener Winged_6_45", "DPS Opener Flame6_45", "DPS Opener Breath6_45"}
 }
 
 xivopeners_blu.openers = {
     DPSopenerEruption = {
-		xivopeners_blu.openerAbilities.     ,
+		xivopeners_blu.openerAbilities.Whistle,
         xivopeners_blu.openerAbilities.Tingle,
 		xivopeners_blu.openerAbilities.MoonFlute,
 		xivopeners_blu.openerAbilities.JKick,
