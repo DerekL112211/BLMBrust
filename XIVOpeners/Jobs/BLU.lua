@@ -30,7 +30,7 @@ xivopeners_blu.openerAbilities = {
 }
 
 xivopeners_blu.openerInfo = {
-    listOpeners = {"DPS Opener (Eruption5_45)", "DPS Opener (F.Rain5_45)", "DPS Opener High ping5_45", "DPS Opener Winged_6_45", "DPS Opener Flame6_45", "DPS Opener Breath6_45"}
+    listOpeners = {"DPS Opener (Eruption5_45)", "DPS(NGA)", "DPS Opener High ping5_45", "DPS Opener Winged_6_45", "DPS Opener Flame6_45", "DPS Opener Breath6_45"}
 }
 
 xivopeners_blu.openers = {
@@ -56,23 +56,19 @@ xivopeners_blu.openers = {
     },
 	
 	DPSopenerFeather = {
-		xivopeners_blu.openerAbilities.Whistle,
-        xivopeners_blu.openerAbilities.Tingle,
-		xivopeners_blu.openerAbilities.MoonFlute,
-		xivopeners_blu.openerAbilities.JKick,
-		xivopeners_blu.openerAbilities.Rose,
-		xivopeners_blu.openerAbilities.Nightbloom,
-		xivopeners_blu.openerAbilities.TripleTrident,
-		xivopeners_blu.openerAbilities.ShockStrike,
 		xivopeners_blu.openerAbilities.Bristle,
+        xivopeners_blu.openerAbilities.MoonFlute,
+		xivopeners_blu.openerAbilities.JKick,
+		xivopeners_blu.openerAbilities.Nightbloom,
 		xivopeners_blu.openerAbilities.SwiftCast,
-		xivopeners_blu.openerAbilities.GlassDance,
 		xivopeners_blu.openerAbilities.Surpa,
 		xivopeners_blu.openerAbilities.Surpa,
 		xivopeners_blu.openerAbilities.Surpa,
 		xivopeners_blu.openerAbilities.Surpa,
 		xivopeners_blu.openerAbilities.MatraMagic,
-		xivopeners_blu.openerAbilities.FeatherRain,
+		xivopeners_blu.openerAbilities.SeaShanty,
+		xivopeners_blu.openerAbilities.SonicBoom,
+		xivopeners_blu.openerAbilities.Eruption,
 		xivopeners_blu.openerAbilities.PhantomFlurry
     },
 	
